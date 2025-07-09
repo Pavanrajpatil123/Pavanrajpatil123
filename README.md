@@ -6,37 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![RESTful APIs](https://img.shields.io/badge/-REST_API-F56300?logo=fastapi&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-
+<table> <tr> <td align="center" colspan="2"><b>🌐 Front-End</b></td> <td align="center" colspan="2"><b>🧠 Back-End</b></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" /></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" /></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /></td> <td colspan="2" align="center"> </td> </tr> </table> <table> <tr> <td align="center" colspan="2"><b>💾 Databases</b></td> <td align="center" colspan="2"><b>🛠️ Tools</b></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /></td> <td></td> <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" /></td> </tr> </table> <table> <tr> <td align="center" colspan="4"><b>📚 Programming Languages</b></td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" /></td> <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /></td> <td></td> </tr> </table>
 ---
 
 ## 🚀 Featured Projects
